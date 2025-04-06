@@ -3,8 +3,8 @@ This repository contains my solutions of exercises for "Computer Systems: A Prog
 
 ##### Chapters
 
-- [ ] 1. A Tour of Computer Systems
-- [ ] 2. Representing and Manipulating Information
+- [x] 1. A Tour of Computer Systems
+- [ ] 2. [Representing and Manipulating Information](/ch_02/)
 - [ ] 3. Machine-Level Representation of Programs
 - [ ] 4. Processor Architecture
 - [ ] 5. Optimizing Program Performance
