@@ -23,7 +23,10 @@ add_executable(computer-systems-a-programmers-perspective
         #   ch_02/ex_72.c
         #   ch_02/ex_73.c
         #   ch_02/ex_74.c
-        ch_02/ex_75.c
+        #   ch_02/ex_75.c
+        #   ch_02/ex_76.c
+        #   ch_02/ex_77.c
+        ch_02/ex_78.c
 )
 
 target_link_libraries(computer-systems-a-programmers-perspective m)
